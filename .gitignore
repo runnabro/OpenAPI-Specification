@@ -1,8 +1,2 @@
-.idea
-*.iml
-*.ipr
-*.iws
-target
-atlassian-ide-plugin.xml
-node_modules/
-Gemfile.lock
+exchange_modules/
+.exchange_modules_tmp/
